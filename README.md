@@ -1,2 +1,2 @@
-# ez-admin
+# one-admin
 An easily customizable admin system
